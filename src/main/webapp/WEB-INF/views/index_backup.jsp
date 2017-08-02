@@ -24,7 +24,7 @@
         </marker>
     </defs>
 </div>
-<div role="navigation" class="navbar navbar-default navbar-static-top">
+<div role="navigation" class="navbar  navbar-static-top">
     <div class="container">
         <div class="row">
             <div class="col-sm-6 col-md-6">
